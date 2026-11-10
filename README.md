@@ -108,7 +108,7 @@ class B,IP,NSG,VM,J node
 
 <br/>
 
-### 03 · Microservices Project
+### 03 · aws-microservices-alb
 
 > TODO: one sentence on what it does.
 >
